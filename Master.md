@@ -272,3 +272,112 @@ Es por todo esto que la dirección de proyectos es una materia de obligado estud
 - Desarrollo del plan de respuesta a los riesgos del proyecto
 - Preparación de la certificación
 - Tipos de preguntas
+
+
+## 3-Plataformas de Desarrollo de Software
+
+### **Presentación**
+
+La asignatura tiene como objetivo dotar al estudiante de una **visión global y eminentemente práctica de herramientas, toolkits y plataformas** que ayudan en todo el ciclo de vida del desarrollo de software. Para ello, se estudian aquellas soluciones que apoyan desde la captura de requisitos, el diseño, la codificación, las pruebas o el despliegue, con un principal foco en aquellas para el desarrollo de aplicaciones informáticas en **entornos de desarrollo Java, .NET y en entornos móviles.**
+
+Por otro lado, se realiza una **introducción a plataformas** que dan soporte en el desarrollo de **arquitecturas de servicios** distribuidas y en **arquitecturas dirigidas por eventos,** de forma que se pueda combinar la visión tecnológica concreta de **Java, .NET y entornos móviles** con una perspectiva más global en la que un desarrollo esté formado por diversos bloques lógicos heterogéneos que interoperan bajo diversos estándares y protocolos de comunicación.
+
+Adicionalmente, se cubre una perspectiva de **ingeniería del software** en la que se muestran las **herramientas de apoyo al diseño y la generación de código,** se expone de forma práctica la creación de una propia **solución de generación de código** y se presentan alguna de las nuevas soluciones catalogadas como **plataformas low-code y no-code.**
+
+A lo largo de la asignatura, los estudiantes participan en actividades durante las cuales tienen la oportunidad de realizar ejercicios individuales y en grupo, así como resolver y debatir problemas específicos relacionados con la selección y uso de las diversas plataformas de desarrollo de software y contrastar sus soluciones y aportaciones con el resto de los estudiantes.
+
+### **Tema 1. Introducción a las plataformas de desarrollo de *software***
+
+- Introducción y objetivos
+- Contexto de las plataformas de desarrollo de *software*
+- Valor y utilidad de las plataformas de desarrollo de *software*
+- Plataformas para el control de versiones
+- Referencias bibliográficas
+
+### **Tema 2. Plataformas para requisitos**
+
+- Introducción y objetivos
+- Contexto de plataformas de requisitos
+- Valor y utilidad de las plataformas de requisitos
+- Principales plataformas de requisitos
+- Plataformas para historias de usuario y prototipos de interfaz gráfico
+- Referencias bibliográficas
+
+### **Tema 3. Plataformas de ingeniería de *software***
+
+- Introducción y objetivos
+- Contexto de las plataformas de ingeniería de *software*
+- Valor y utilidad de las plataformas de ingeniería de *software*
+- Plataformas ALM
+- Plataformas CASE
+- Referencias bibliográficas
+
+### **Tema 4. Plataformas *low-code* y *no-code***
+
+- Introducción y objetivos
+- Contexto de las plataformas *low-code* y *no-code*
+- Valor y utilidad de las plataformas *low-code* y *no-code*
+- Principales plataformas *low-code* y *no-code* comerciales
+- Principales plataformas *low-code* y *no-code* abiertas
+- Plataformas aceleradoras
+- Referencias bibliográficas
+
+### **Tema 5. Plataformas para el desarrollo en Java**
+
+- Introducción y objetivos
+- Contexto de las plataformas para el desarrollo en Java
+- Valor y utilidad de las plataformas para el desarrollo en *Java*
+- Entornos de desarrollo integrados
+- Plataformas para la gestión de las dependencias y procesos de compilación
+- Plataformas aceleradoras del desarrollo en Java
+- Referencias bibliográficas
+
+### **Tema 6. Plataformas para el desarrollo en .NET**
+
+- Introducción y objetivos
+- Contexto de las plataformas para el desarrollo en .NET
+- Valor y utilidad de las implementaciones de la plataforma .NET
+- Entornos de desarrollo integrados
+- Plataformas para la gestión de paquetes
+- Plataformas aceleradoras del desarrollo en .NET
+- Referencias bibliográficas
+
+### **Tema 7. Plataformas para el desarrollo de servicios**
+
+- Introducción y objetivos
+- Contexto de las plataformas para el desarrollo de servicios
+- Valor y utilidad de las plataformas para el desarrollo de servicios
+- Modelado y descripción de servicios
+- Documentación e interacción con servicios
+- Plataformas aceleradoras de desarrollo de servicios
+- Referencias bibliográficas
+
+### **Tema 8. Plataformas para el desarrollo móvil**
+
+- Introducción y objetivos
+- Contexto de las plataformas para el desarrollo móvil
+- Valor y utilidad de las plataformas para el desarrollo móvil
+- Entornos de desarrollo integrados para desarrollo de apps nativas
+- Plataformas aceleradoras de desarrollo móvil
+- Referencias bibliográficas
+
+### **Tema 9. Plataformas para pruebas**
+
+- Introducción y objetivos
+- Contexto de las plataformas para pruebas
+- Valor y utilidad de las plataformas para pruebas
+- Plataformas para pruebas unitarias
+- Plataformas para pruebas de integración
+- Plataformas para pruebas de sistema
+- Plataformas para pruebas de aceptación
+- Referencias bibliográficas
+
+### **Tema 10. Plataformas para el despliegue de sistemas distribuidos**
+
+- Introducción y objetivos
+- Contexto de las plataformas para el despliegue de sistemas distribuidos
+- Valor y utilidad de las plataformas para el despliegue de sistemas distribuidos
+- Plataformas para automatizar el despliegue
+- Plataformas para arquitecturas basadas en eventos
+- Plataformas de monitorización de sistemas distribuidos
+- Referencias bibliográficas
