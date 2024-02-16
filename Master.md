@@ -381,3 +381,209 @@ A lo largo de la asignatura, los estudiantes participan en actividades durante l
 - Plataformas para arquitecturas basadas en eventos
 - Plataformas de monitorización de sistemas distribuidos
 - Referencias bibliográficas
+
+
+## 4-Desarrollo Web Integral
+
+### **Presentación**
+
+El desarrollo web es sin duda una de las formas más sencillas y divertidas de introducirse al mundo de la tecnología y la programación. Tradicionalmente, han existido **dos tipos de perfiles de desarrolladores: front-end y back-end,** cada uno especializado en una de las dos grandes partes en las que se dividen las aplicaciones web. No obstante, aquellos desarrolladores con conocimientos tanto de front-end como de back-end son denominados **desarrolladores full stack.**
+
+Un desarrollador de este tipo debe:
+
+- Ser capaz de trabajar con gestores de bases de datos relacionales o no relacionales.
+- Entender por qué unos elementos HTML no se están mostrando correctamente en la pantalla del ordenador de un usuario.
+- Saber trabajar con servidores web y realizar despliegues del software desarrollado.
+
+Se trata de un **perfil laboral completo,** ampliamente demandado (con razón) por las empresas que se dedican a construir software.
+
+Esta asignatura pretende introducir a los alumnos en el mundo del front-end y del back-end, explicando qué es cada parte y cuáles son las tecnologías más utilizadas dentro de cada una. Además, busca que los alumnos obtengan experiencia en el uso de alguna de esas tecnologías.
+
+### **Tema 1. Introducción al *front-end.* HTML y CSS**
+
+- 1.1. Introducción y objetivos
+- 1.2. Qué es el *front-end*
+- 1.3. Conceptos básicos de HTML
+- 1.4. Conceptos básicos de CSS
+
+### **Tema 2. Introducción a JavaScript**
+
+- 2.1. Introducción y objetivos
+- 2.2. Historia de JavaScript
+- 2.3. Conceptos básicos de JavaScript
+- 2.4. Estructuras de control en JavaScript
+- 2.5. Estructuras iterativas en JavaScript
+- 2.6. Estructuras de datos en JavaScript
+
+### **Tema 3. JavaScript avanzado**
+
+- 3.1. Introducción y objetivos
+- 3.2. Definición e invocación de funciones
+- 3.3. Argumentos
+- 3.4. Funciones flecha
+- 3.5. Funciones de retrollamada o *callback*
+- 3.6. Funciones de orden superior
+- 3.7. Objetos literales
+- 3.8. El objeto *this*
+- 3.9. Promesas y funciones asíncronas
+- 3.10. *Closures*
+
+### **Tema 4. El DOM**
+
+- 4.1. Introducción y objetivos
+- 4.2. ¿Qué es el DOM?
+- 4.3. Un DOM virtual con JSDOM
+- 4.4. *Query Selectors*
+- 4.5. Navegación y modificación de atributos
+- 4.6. Creación y modificación de nodos
+
+### **Tema 5. React**
+
+- 5.1. Introducción y objetivos
+- 5.2. Qué es React
+- 5.3. FIGURA y renderizado
+- 5.4. Programación orientada a componentes
+- 5.5. *Hooks*
+- 5.6. React Router
+
+### **Tema 6. Introducción al *back-end***
+
+- 6.1. Introducción y objetivos
+- 6.2. Qué es el *back-end*
+- 6.3. Tecnologías principales en el *back-end*
+- 6.4. Servicios web
+- 6.5. API REST
+
+### **Tema 7. Sistemas centralizados y distribuidos**
+
+- 7.1. Introducción y objetivos
+- 7.2. Sistemas centralizados
+- 7.3. Sistemas distribuidos
+
+### **Tema 8. Java y Spring Framework**
+
+- 8.1. Introducción y objetivos
+- 8.2. El lenguaje Java
+- 8.3. Spring Framework
+- 8.4. Spring Boot
+- 8.5. Spring Data
+- 8.6. Creación de una aplicación con Spring
+- 8.7. Eureka
+- 8.8. Zuul
+- 8.9. Creación de imágenes Docker
+
+### **Tema 9. Lucene y Elasticsearch**
+
+- 9.1. Introducción y objetivos
+- 9.2. Apache Lucene
+- 9.3. Elasticsearch y Elastic Stack
+- 9.4. Tipos de datos en Elasticsearch
+- 9.5. Operaciones con Elasticsearch
+- 9.6. Creación de un clúster con Elasticsearch
+- 9.7. Integración de Elasticsearch con Spring
+
+### **Tema 10. Usabilidad en la web**
+
+- 10.1. Introducción y objetivos
+- 10.2. Factores de la usabilidad
+- 10.3. Principios generales de la usabilidad
+- 10.4. Beneficios de la usabilidad
+- 10.5. Usabilidad web
+- 10.6. Proceso de análisis
+
+
+## 5-Ciberseguridad Web
+
+### **Presentación**
+
+Esta asignatura estudia las medidas o actividades que son necesarias para **implementar la seguridad de los sistemas y de las aplicaciones web** para que, una vez desplegados online, se comporten de la forma esperada, tanto por los propietarios como por parte de los usuarios, y puedan **mitigar cualquier ataque.**
+
+La **base de la seguridad de las aplicaciones online** y de los servicios desplegados en la Nube o en servidores locales o remotos corporativos depende de la seguridad de los sistemas operativos que las soportan instalados en máquinas físicas, virtualizados o en contenedores.
+
+Es fundamental sentar las **bases de la implementación de la ciberseguridad** en una organización a partir del diseño de una política de seguridad, de la que se deriva la implantación de un **sistema de gestión de seguridad de la información (SGSI).** La **política de seguridad** es un conjunto normativo, procesos y procedimientos que implican a todos los miembros de la organización de acuerdo con el rol que cada uno desempeña en ella. La concienciación de que la ciberseguridad es una tarea de todos es un pilar fundamental dentro de la organización para garantizar la **confidencialidad e integridad** de los sistemas de información y comunicaciones.
+
+El **SGSI implica abordar las actividades de seguridad** que se realizan antes y una vez desplegados los sistemas y aplicaciones siguiendo un ciclo de vida de **desarrollo seguro de software (SSCLC).**
+
+Un SSDLC implica la realización de determinadas **actividades de seguridad** relacionadas con los requisitos de seguridad, el diseño y desarrollo seguros, así como las pruebas y operaciones de seguridad que se deben llevar a cabo de forma ordenada y procedimental por personal experto en seguridad.
+
+### **Tema 1. Ciberseguridad en las organizaciones**
+
+- Introducción y objetivos
+- Justificación y motivación de la ciberseguridad
+- Amenazas y riesgos de ciberseguridad
+- Dimensiones de la ciberseguridad
+- La ciberseguridad es un proceso
+- Referencias bibliográficas
+
+### **Tema 2. Gestión de la ciberseguridad**
+
+- Introducción y objetivos
+- Política de seguridad
+- Diseño de la política de seguridad
+- Sistema de gestión de seguridad de la información
+- Profesión de gestión de la ciberseguridad
+- Certificaciones de ciberseguridad
+- Referencias bibliográficas
+
+### **Tema 3. Análisis y gestión de riesgos de ciberseguridad**
+
+- Introducción y objetivos
+- Principales metodologías y herramientas
+- Planificación de un proyecto de análisis de riesgos
+- Análisis de riesgos
+- Gestión de riesgos
+- Herramienta PILAR
+- Referencias bibliográficas
+
+### **Tema 4. Seguridad en aplicaciones web: introducción**
+
+- Introducción y objetivos
+- Ciclo de vida de desarrollo seguro de *software* (SSDLC)
+- Arquitecturas de las aplicaciones web
+- Protocolo HTTP
+- Referencias bibliográficas
+
+### **Tema 5. Vulnerabilidades en las aplicaciones web**
+
+- Introducción y objetivos
+- OWASP Top Ten
+- OWASP Top Ten 2013: otras vulnerabilidades importantes
+- Referencias bibliográficas
+
+### **Tema 6. Autenticación en las aplicaciones web**
+
+- Introducción y objetivos
+- Autenticación
+- Referencias bibliográficas
+
+### **Tema 7. Gestión de sesiones y autorización en las aplicaciones web**
+
+- Introducción y objetivos
+- Gestión de sesiones
+- Autorización
+- Referencias bibliográficas
+
+### **Tema 8. Seguridad en el desarrollo de las aplicaciones web**
+
+- Introducción y objetivos
+- Principios del desarrollo seguro
+- Desarrollo seguro: OWASP Top Ten
+- Desarrollo seguro: otras vulnerabilidades importantes
+- Referencias bibliográficas
+
+### **Tema 9. Análisis de seguridad de las aplicaciones web**
+
+- Introducción y objetivos
+- Análisis de seguridad de las aplicaciones web
+- Análisis de seguridad estático de código fuente
+- Análisis de seguridad funcional y dinámico
+- Referencias bibliográficas
+
+### **Tema 10. Seguridad en la fase de producción de las aplicaciones web**
+
+- Introducción y objetivos
+- Seguridad en fase de producción *online*
+- Cabeceras de seguridad HTTP
+- Seguridad en aplicaciones RIA
+- Referencias bibliográficas
+  
