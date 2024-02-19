@@ -586,4 +586,123 @@ Un SSDLC implica la realización de determinadas **actividades de seguridad** 
 - Cabeceras de seguridad HTTP
 - Seguridad en aplicaciones RIA
 - Referencias bibliográficas
-  
+
+
+  ## 6-Administración de Sistemas, Virtualización, Cloud Computing y DevOps
+
+### **Presentación**
+
+La asignatura se centrará en los siguientes contenidos:
+
+- Administración de sistemas.
+- Virtualización.
+- Computación en la nube.
+- Infraestructuras, plataformas y servicios de computación en la nube.
+- Desarrollo y operaciones.
+
+### **Tema 1. Administración de sistemas Windows**
+
+- Introducción y objetivos
+- Ediciones e instalación de Windows
+- Servicios de dominio de Active Directory
+- Implementación objetos de directiva de grupo
+- Servidor web, servidor de archivos y monitorización
+- Infraestructura de red de Windows server
+- Seguridad en redes Windows
+- Entornos híbridos
+- Referencias bibliográficas
+
+### **Tema 2. Administración de sistemas Linux**
+
+- Introducción y objetivos
+- Primeros pasos en Linux
+- Introducción a línea de comandos
+- Administración de archivos desde línea de comandos
+- Usuarios, grupos y permisos
+- Procesos, servicios y daemons. Monitorización
+- Análisis y almacenamiento de registros
+- Administración de redes
+- Almacenamiento y transferencia de archivos
+- Acceso a los sistemas de archivos de Linux. Actualizaciones
+- Referencias bibliográficas
+
+### **Tema 3. Virtualización y contenedores**
+
+- Introducción y objetivos
+- Conceptos e historia
+- Tipos de virtualización
+- *Software* de virtualización
+- Hipervisores en la nube
+- Contenedores
+- Referencias bibliográficas
+
+### **Tema 4. Fundamentos de computación en la nube**
+
+- Introducción y objetivos
+- Introducción a la informática en la nube
+- Introducción y ventajas de la informática en la nube
+- Marco de adopción de la nube
+- Costo total de propiedad
+- Prácticas recomendadas para crear soluciones en la nube
+- Infraestructura global
+- Referencias bibliográficas
+
+### **Tema 5. Almacenamiento, cómputo y base de datos**
+
+- Introducción y objetivos
+- Ejemplo de arquitectura simple
+- Almacenamiento de datos
+- Cómputo
+- Bases de datos SQL y no SQL
+- Referencias bibliográficas
+
+### **Tema 6. Redes y seguridad en la nube**
+
+- Introducción y objetivos
+- Creación y conexionado de un entorno de red
+- Protección del entorno de red
+- Conexión a la red remota
+- Escalado de redes
+- Gestión de identidad y seguridad en la nube
+- Referencias bibliográficas
+
+### **Tema 7. Monitorización, elasticidad y alta disponibilidad en la nube**
+
+- Introducción y objetivos
+- Escalado de los recursos informáticos
+- Escalado de las bases de datos
+- Entornos de alta disponibilidad
+- Monitorización y observabilidad
+- Referencias bibliográficas
+
+### **Tema 8. Automatización, contenidos, microservicios y *serverless***
+
+- Introducción y objetivos
+- Motivos para automatizar
+- Automatización de la arquitectura
+- Servicios de caché
+- Microservicios y arquitecturas sin servidor
+- Referencias bibliográficas
+
+### **Tema 9. DevOps, DevOps Culture y DevSecOps**
+
+- Introducción y objetivos
+- ¿A qué llamamos DevOps?
+- Principios y metodologías DevOps
+- Introducción a la colaboración
+- Factores que aceleran la adopción de DevOps
+- Seguridad en DevOps (DevSecOps)
+- Referencias bibliográficas
+
+### **Tema 10. Entornos de integración y entrega continua**
+
+- Introducción y objetivos
+- ¿Qué es integración continua?
+- Repositorio de código
+- Plataforma de desarrollo
+- Gestión de versiones
+- Herramientas orquestadoras de CI
+- Estrategias de despliegue
+- Herramientas de gestión de entornos
+- Promoción entre entornos de la plataforma DevOps
+- Referencias bibliográficas
