@@ -588,7 +588,7 @@ Un SSDLC implica la realización de determinadas **actividades de seguridad** 
 - Referencias bibliográficas
 
 
-  ## 6-Administración de Sistemas, Virtualización, Cloud Computing y DevOps
+## 6-Administración de Sistemas, Virtualización, Cloud Computing y DevOps
 
 ### **Presentación**
 
@@ -706,3 +706,109 @@ La asignatura se centrará en los siguientes contenidos:
 - Herramientas de gestión de entornos
 - Promoción entre entornos de la plataforma DevOps
 - Referencias bibliográficas
+- Referencias nuevas 
+
+## 7-Desarrollo Seguro de Software y Auditoría de la Ciberseguridad
+
+### **Presentación**
+
+La asignatura se centrará en los siguientes contenidos:
+
+- Diseño de software seguro.
+- Codificación y desarrollo de software seguro.
+- Auditoría de la seguridad de los sistemas de información.
+- Proceso de auditoría de los sistemas de información y sus fases.
+- Sistemas de gestión de seguridad de la información.
+
+### **Tema 1. El problema de la seguridad en el *software***
+
+- Introducción y objetivos.
+- Introducción al problema de la seguridad en el *software*.
+- Vulnerabilidades y su clasificación.
+- Propiedades del *software* seguro.
+- Principios de diseño de seguridad del *software*.
+- Tipos de S-SDLC.
+- Estándares de Seguridad del *Software*.
+
+### **Tema 2. Seguridad en el ciclo de vida del *software* en las fases de análisis y diseño**
+
+- Introducción y objetivos.
+- La seguridad en ciclo de vida del *software*.
+- Modelado de amenazas.
+- Casos de abuso.
+- Modelado de ataques.
+- Ingeniería de requisitos de seguridad.
+- Análisis de riesgo arquitectónico.
+- Patrones de diseño.
+
+### **Tema 3. Seguridad en el ciclo de vida del *software* en las fases de codificación, pruebas y operación**
+
+- Introducción y objetivos.
+- Pruebas de seguridad basadas en riesgo.
+- Revisión de código.
+- Pruebas de penetración.
+- Operaciones de seguridad.
+- Revisión externa.
+
+### **Tema 4. Codificación segura de aplicaciones I**
+
+- Introducción y objetivos.
+- Prácticas de codificación segura.
+- Manejo de la entrada de datos.
+- Desbordamiento de *buffer.*
+
+### **Tema 5. Codificación segura de aplicaciones II**
+
+- Introducción y objetivos.
+- *Integers overflows*.
+- Errores y excepciones.
+- Privacidad y confidencialidad.
+- Programas privilegiados.
+
+### **Tema 6. Introducción al concepto de auditoría de sistemas de información**
+
+- Introducción y objetivos.
+- Introducción a los sistemas de información y el rol de la auditoría informática.
+- Fundamentos y conceptos de la auditoría de sistemas de información.
+- Tipos y clases de auditoría.
+- ¿Para qué sirve una auditoría informática?
+- Funciones y objetivos de la auditoría informática.
+- Proceso de auditoría de sistemas.
+- Ventajas e inconvenientes de las auditorías.
+
+### **Tema 7. Gobierno y gestión de la función de auditoría**
+
+- Introducción y objetivos.
+- Gestión de la función de auditoría.
+- Clasificación de los controles.
+- La regla de oro.
+
+### **Tema 8. El proceso de auditoría de sistemas de la información**
+
+- Introducción y objetivos.
+- Estándares de la auditoría.
+- Metodología de la auditoría.
+- Planificación de la auditoría.
+- Herramientas y técnicas de auditoría.
+- Objetivos de la auditoría
+- Evidencia.
+- Comunicación de los resultados de la auditoría .
+
+### **Tema 9. Auditorías operativas/técnicas**
+
+- Introducción y objetivos.
+- Auditorías de la infraestructura física.
+- Auditorías de sistemas de recuperación ante desastres.
+- Auditoría de las operaciones.
+- Auditorías técnicas de seguridad.
+- Auditoría del acceso lógico.
+
+### **Tema 10. Auditorías de cumplimiento y metodologías de auditoría**
+
+- Introducción y objetivos.
+- Auditorías de cumplimiento.
+- Metodologías de auditorías de seguridad.
+
+
+
+
