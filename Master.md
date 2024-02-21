@@ -910,3 +910,4 @@ Se destacan los **contenidos** más importantes de la asignatura:
 - Leyes de diseño de interfaces.
 - *Dark patterns.*
 - Referencias bibliográficas.
+- Esto es una Referencia nueva del curso 
