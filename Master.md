@@ -810,5 +810,103 @@ La asignatura se centrará en los siguientes contenidos:
 - Metodologías de auditorías de seguridad.
 
 
+## 8-Experiencia e Interfaz de Usuario (UX y UI)
 
+### **Presentación**
 
+La asignatura de UX y UI aborda las **técnicas y metodologías** más importantes dentro del **diseño de interfaz y de la usabilidad.** En esta se verán tanto las bases teóricas de la experiencia de usuario como la del diseño de la interfaz de usuario. A su vez, se proveerán **casos prácticos** para afianzar la parte teórica.
+
+Se destacan los **contenidos** más importantes de la asignatura:
+
+- UX en el proceso del desarrollo front-end.
+- Principales herramientas utilizadas en la UX (UsabiliTEST, Helio o similares).
+- UI en el proceso del desarrollo front-end.
+- Principales herramientas utilizadas en la UI (Tiff, Typewolf o similares).
+- Aplicación de UX y UI en proyectos reales en equipo.
+
+### **Tema 1. Introducción al diseño de experiencia de usuario**
+
+- Introducción y objetivos.
+- Experiencia de usuario (UX) y usabilidad.
+- Disciplinas en el diseño de experiencia de usuario.
+- ¿Por qué es importante el diseño de UX?
+- Niveles de implicación de los usuarios en el diseño de UX.
+- Niveles de madurez del diseño de UX en las organizaciones.
+- El objeto de diseño: página web, sitio web, aplicaciones.
+- Referencias bibliográficas.
+
+### **Tema 2. Factores cognitivos, sociales y emocionales en UX**
+
+- Introducción y objetivos.
+- Factores cognitivos y UX.
+- Aspectos sociales en el diseño de UX.
+- Emociones y diseño de UX.
+- Referencias bibliográficas.
+
+### **Tema 3. Elementos y disciplinas en la experiencia de usuario**
+
+- Introducción y objetivos.
+- Los elementos de UX.
+- Disciplinas en el proceso de diseño UX.
+- Entregables del proceso UX.
+- Referencias bibliográficas.
+
+### **Tema 4. Metodologías y proceso de diseño**
+
+- Introducción y objetivos.
+- Postulados y tendencias que convergen en las metodologías UX.
+- Metodologías UX.
+- Etapas del proceso de diseño UX.
+- Referencias bibliográficas.
+
+### **Tema 5. Investigación y requisitos de usuario**
+
+- Introducción y objetivos.
+- La investigación en UX/UI.
+- Técnicas de investigación.
+- Conceptualización.
+- Requisitos de usuario y priorización.
+- Referencias bibliográficas.
+
+### **Tema 6. Diagramación UX: mapa del sitio, flujo de usuario y flujo de tarea**
+
+- Introducción y objetivos.
+- Diagramación UX.
+- Mapa de sitio. Tipos de estructura web.
+- Diseño de interacción: flujo de usuario y flujo de tareas *(user flow, task flow).*
+- Referencias bibliográficas.
+
+### **Tema 7. Interfaces de usuario**
+
+- Introducción y objetivos.
+- Tipos de interfaces de usuario (UI).
+- Elementos formales del diseño UI.
+- Componentes de interfaces web y de móviles.
+- Referencias bibliográficas.
+
+### **Tema 8. Prototipado UX**
+
+- Introducción y objetivos.
+- Definición y criterios de clasificación.
+- Prototipos de baja fidelidad o *sketch.*
+- *Wireframes.*
+- Prototipado de alta definición.
+- Técnicas de evaluación de prototipos.
+- Referencias bibliográficas.
+
+### **Tema 9. Diseño visual**
+
+- Introducción y objetivos.
+- Principios del diseño aplicados a UI.
+- *Moodboard.*
+- Guía de estilo.
+- Referencias bibliográficas.
+
+### **Tema 10. Diseño visual II**
+
+- Introducción y objetivos.
+- Guía de estilo IU.
+- Sistemas de diseño.
+- Leyes de diseño de interfaces.
+- *Dark patterns.*
+- Referencias bibliográficas.
