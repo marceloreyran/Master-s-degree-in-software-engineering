@@ -911,3 +911,56 @@ Se destacan los **contenidos** más importantes de la asignatura:
 - *Dark patterns.*
 - Referencias bibliográficas.
 - Esto es una Referencia nueva del curso 
+
+## 9-Proyecto de Aplicación en Ingeniería de Software y Sistemas
+
+### **Presentación**
+
+En esta asignatura el estudiante realizará un trabajo inédito y original en el que aplicará y desarrollará los conocimientos y competencias adquiridos en el resto de las asignaturas del título. Será implementado en la parte final del plan de estudios con carácter obligatorio. Para poder superar la asignatura, el proyecto final será presentado mediante un vídeo y deberá ser plasmado mediante la elaboración de un documento académico, en una plantilla que será proporcionada al alumno y que tendrá que ser depositada en tiempo y forma en los plazos establecidos.
+
+El objetivo principal de esta asignatura es, sin duda, poner a prueba la capacidad investigadora e innovadora del alumno en la implementación de proyectos de Ingeniería del Software. El proyecto final tendrá carácter científico y de innovación en el que los alumnos explorarán en profundidad un campo concreto dentro de la temática del título y realizarán una contribución novedosa, dentro de dicho campo, que suponga un avance. Se trata, a su vez, de una prueba de autonomía investigadora y capacidad de progresión individual para construir nuevo conocimiento práctico y de utilidad en el ámbito de la Ingeniería del Software.
+
+En concreto, se busca aportar algo nuevo y aprovechable por terceros mediante un desarrollo práctico. No se trata de un trabajo únicamente de documentación, de un estudio de un dominio o de un software rutinario. El grueso del proyecto reside en el trabajo de campo, aplicando de primera mano las tecnologías y trabajando en escenarios reales. El desarrollo debe incluir un uso avanzado y directo de nuevas prácticas o tecnologías relacionadas con la seguridad y la calidad del software.
+
+### Tema 1: Planteamiento Inicial
+
+- Introducción y objetivos
+- Objetivos del TFM y de investigación
+- Descripción del desarrollo práctico
+- Plan de trabajo
+- Plantilla de TFM
+
+### Tema 2: Desarrollo e implementación de la herramienta
+
+- Introducción y objetivos
+- Estado del arte
+- Entorno DevOps. Vagrant y VirtualBox
+- Herramientas DevOps. Git y SGC
+- Metodología. Proceso de desarrollo de software
+- Metodología. Patrones de arquitectura
+- Metodología. UML y diagramas
+- Metodología. Agilidad y *scrum*
+- Plataformas para requisitos
+- Plataformas *low code* y *no code*
+- Plataformas Java, .NET y servicios web
+- Generación de interfaces de usuario
+- Construcción de *dashboards*
+- Desarrollo web
+
+### Tema 3: Pruebas de la herramienta
+
+- Introducción y objetivos
+- Pruebas unitarias
+- Pruebas de integración
+- Usabilidad del software
+- Seguridad en aplicaciones y web
+- Seguridad en producción
+
+### Tema 4: Anexos y conclusiones
+
+- Introducción y objetivos
+- Realización del artículo
+- Anexos
+- Coste de implantación
+- Trabajo futuro y conclusiones
+- Entrega final
