@@ -9,8 +9,7 @@
 - [Core Courses (30 cred) ](#core-courses-30-cred-)
 - [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465-)
 - [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465--1)
-- [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465--2)
-
+  
 ### software-design-and-architecture
 
 - Course Description: In this course, students will learn about software design principles, patterns, practices, methodologies, architectures, and technologies relevant to modern software development.            
@@ -34,8 +33,6 @@
    The core courses are designed to provide a solid foundation for the study of software engineering. 
    
    ### Software Design and Architecture (CS465/EN465) <a name="software-design-and-architecture-cs465en465"></a>
-   
-   ### Software Design and Architecture (CS465/EN465) <a name="software-design-and-architecture-cs465en465"></a>   
    
    1. **CS273: Programming Languages**
    
