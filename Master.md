@@ -963,4 +963,19 @@ En concreto, se busca aportar algo nuevo y aprovechable por terceros mediante un
 - Anexos
 - Coste de implantación
 - Trabajo futuro y conclusiones
-- Entrega final
+- Entrega final del proyecto
+
+### Nota sobre el plan de trabajo
+
+El plan de trabajo se ha dividido en tres partes:
+
+- **Tema 1**: Planteamiento inicial.
+- **Tema 2**: Desarrollo e implementación de la herramienta.
+- **Tema 3**: Pruebas de la herramienta.
+- **Tema 4**: Anexos y conclusiones.
+
+El plan de trabajo se ha dividido en tres partes:
+
+- **Tema 1**: Planteamiento inicial.
+- **Tema 2**: Desarrollo e implementación de la herramienta.
+- **Tema 3**: Pruebas de la herramienta.
