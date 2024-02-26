@@ -1,14 +1,17 @@
 ### 💻 This is the study plan for the Master's Degree in Software Engineering.
 
 ### Table of Contents
+- [💻 This is the study plan for the Master's Degree in Software Engineering.](#-this-is-the-study-plan-for-the-masters-degree-in-software-engineering)
+- [Table of Contents](#table-of-contents)
+- [software-design-and-architecture](#software-design-and-architecture)
+- [Introduction to Software Engineering](#introduction-to-software-engineering)
 - [Course Structure and Methodology ](#course-structure-and-methodology-)
 - [Core Courses (30 cred) ](#core-courses-30-cred-)
 - [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465-)
-  - [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465--1)
-  - [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465--2)
+- [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465--1)
+- [Software Design and Architecture (CS465/EN465) ](#software-design-and-architecture-cs465en465--2)
 
-
-###software-design-and-architecture-cs465en465-
+### software-design-and-architecture
 
 - Course Description: In this course, students will learn about software design principles, patterns, practices, methodologies, architectures, and technologies relevant to modern software development.            
 - Course Description: In this course, students will learn how to design software systems that meet user requirements while adhering to best practices in software engineering. Topics include object-orient.
@@ -23,11 +26,11 @@
    
    <a name="introduction-to-software-engineering"></a>
    
-   ## Course Structure and Methodology <a name="course-structure-and-methodology"></a>
+   ### Course Structure and Methodology <a name="course-structure-and-methodology"></a>
    
-   ## Core Courses (30 cred) <a name="core-courses-30-cred"></a>
+   ### Core Courses (30 cred) <a name="core-courses-30-cred"></a>
    
-   ## Software Design and Architecture (CS465/EN465) <a name="software-design-and-architecture-cs465en465"></a>
+   ### Software Design and Architecture (CS465/EN465) <a name="software-design-and-architecture-cs465en465"></a>
    The core courses are designed to provide a solid foundation for the study of software engineering. 
    
    ### Software Design and Architecture (CS465/EN465) <a name="software-design-and-architecture-cs465en465"></a>
