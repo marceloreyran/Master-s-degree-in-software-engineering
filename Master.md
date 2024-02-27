@@ -978,4 +978,14 @@ El plan de trabajo se ha dividido en tres partes:
 
 - **Tema 1**: Planteamiento inicial.
 - **Tema 2**: Desarrollo e implementación de la herramienta.
-- **Tema 3**: Pruebas de la herramienta.
+- **Tema 3**: Pruebas de la herramienta.    
+
+En este último tema, los estudiantes deberán realizar una prueba de usabilidad del software, una prueba de seguridad en aplicaciones y web y una prueba de seguridad en producción.
+Es importante tener en cuenta que los temas 2 y 3 son obligatorios, mientras que el tema 4 es opcional.
+
+### Nota sobre la entrega final del proyecto
+
+La entrega final del proyecto se realizará en dos fases:
+
+- **Entrega 1**: Entrega de la memoria del proyecto.
+- **Entrega 2**: Entrega del proyecto.
